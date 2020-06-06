@@ -14,7 +14,7 @@ int main()
     else
     {
         cout << "given number is lower than 5 \n "
-             << "good luck \t " << endl;
+             << "good luck \t" << endl;
     }
 
     system("pause");
