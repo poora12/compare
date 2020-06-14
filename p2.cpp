@@ -8,13 +8,13 @@ int main()
     cin >> n;
     if (n > a)
     {
-        cout << " given number is greater than 5 \n "
+        cout << " Given number is greater than 5 \n "
              << "good luck \t " << endl;
     }
     else
     {
-        cout << "given number is lower than 5 \n "
-             << "good luck \t" << endl;
+        cout << "given number is lower than 5  \n "
+             << "good luck  \t" << endl;
     }
 
     system("pause");
